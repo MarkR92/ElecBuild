@@ -18,7 +18,7 @@ public class ZoomBarPanel extends JToolBar implements ActionListener {
 		setOrientation(HORIZONTAL);
 		
 
-		zoomButton = new JButton("Zoom");
+		zoomButton = new JButton("Zom");
 		zoomButton.setToolTipText("Zoom");
 
 		zoomButton.addActionListener(this);
